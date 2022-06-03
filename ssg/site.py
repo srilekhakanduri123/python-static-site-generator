@@ -1,5 +1,6 @@
 from pathlib import Path
 
+
 class Site:
 
     def __int__(self, source, dest):
